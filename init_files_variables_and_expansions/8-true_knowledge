@@ -1,2 +1,2 @@
 #!/bin/bash
-printf=("%d+%d),128, $TRUEKNOWLEDGE
+echo $((128 + TRUEKNOWLEDGE))
