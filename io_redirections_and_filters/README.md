@@ -1,0 +1,1 @@
+Bonjour, dans ce dossier vous allez retrouver les scripts qui concerne les exercices sur le Shell I/O redirections and filters pour l'ecole Holberton Schools. 
